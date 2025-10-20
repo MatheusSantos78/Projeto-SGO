@@ -36,12 +36,12 @@ Como administrador, desejo visualizar o quadro de medalhas por país, para acomp
 
 🧩 Diagramas UML
 📌 Diagrama de Caso de Uso
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/diagrama-de-caso-de-uso.png" />
+<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeCasoDeUso.png" />
 📌 Diagrama de Classes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/diagrama-de-classes.png" />
+<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeClasses.png" />
 📌 Diagrama de Pacotes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/diagrama-de-pacotes.png" />
+<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDePacotes.png" />
 📌 Diagrama de Componentes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/diagrama-de-componentes.png" />
+<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeComponentes.png" />
 📌 Diagrama de Implantação
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/diagrama-de-implantacao.png" />
+<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeImplementacao.png" />
