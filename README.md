@@ -34,14 +34,19 @@ Como juiz ou organizador, desejo registrar os vencedores e classificados, para m
 US05 – Relatório de Medalhas
 Como administrador, desejo visualizar o quadro de medalhas por país, para acompanhar o desempenho dos atletas.
 
-🧩 Diagramas UML
-📌 Diagrama de Caso de Uso
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeCasoDeUso.png" />
-📌 Diagrama de Classes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeClasses.png" />
-📌 Diagrama de Pacotes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDePacotes.png" />
-📌 Diagrama de Componentes
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeComponentes.png" />
-📌 Diagrama de Implantação
-<img width="500px" src="https://github.com/seunome/projeto-de-software/blob/main/imagens/DiagramaDeImplementacao.png" />
+## 🧩 Diagramas UML
+
+### 📌 Diagrama de Caso de Uso
+<img width="500px" src="imagens/DiagramaDeCasoDeUso.png" />
+
+### 📌 Diagrama de Classes
+<img width="500px" src="imagens/DiagramaDeClasses.png" />
+
+### 📌 Diagrama de Pacotes
+<img width="500px" src="imagens/DiagramaDePacotes.png" />
+
+### 📌 Diagrama de Componentes
+<img width="500px" src="imagens/DiagramaDeComponentes.png" />
+
+### 📌 Diagrama de Implantação
+<img width="500px" src="imagens/DiagramaDeImplementacao.png" />
